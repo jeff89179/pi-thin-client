@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Hardware info
+Name[en_US]=Hardware info
+Exec=/usr/bin/hardinfo
+Comment[en_US]=Hardware info
+StartupNotify=true
+
+### USE THIS AS A TEMPLATE ###
+### CREDIT https://lkubaski.wordpress.com/2012/06/29/adding-lxde-start-menu-and-desktop-shortcuts/ ###
